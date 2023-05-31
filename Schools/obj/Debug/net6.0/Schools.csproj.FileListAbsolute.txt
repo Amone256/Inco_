@@ -1,0 +1,15 @@
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\bin\Debug\net6.0\Schools.deps.json
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\bin\Debug\net6.0\Schools.dll
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\bin\Debug\net6.0\Schools.pdb
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\bin\Debug\net6.0\Entities.dll
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\bin\Debug\net6.0\Entities.pdb
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\Schools.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\Schools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\Schools.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\Schools.AssemblyInfo.cs
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\Schools.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\Schools.csproj.CopyComplete
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\Schools.dll
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\refint\Schools.dll
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\Schools.pdb
+C:\Users\Michael\Desktop\Inco_\API_V2\Schools\obj\Debug\net6.0\ref\Schools.dll
